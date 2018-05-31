@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# 有可能出现替换错误字符串的情况
+
 name_search_dir=$1
 asset_search_dir=$2
 prefix_from=$3
